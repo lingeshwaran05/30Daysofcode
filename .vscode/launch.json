@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "pascal_triangle",
+      "request": "launch",
+      "mainClass": "pascal_triangle",
+      "projectName": "30daysofcode_bd4da52e"
+    },
+    {
+      "type": "java",
+      "name": "floyd_triangle",
+      "request": "launch",
+      "mainClass": "floyd_triangle",
+      "projectName": "30daysofcode_bd4da52e"
+    },
+    {
+      "type": "java",
+      "name": "pyramid",
+      "request": "launch",
+      "mainClass": "pyramid",
+      "projectName": "30daysofcode_bd4da52e"
+    },
+    {
+      "type": "java",
       "name": "waterlevel",
       "request": "launch",
       "mainClass": "waterlevel",
